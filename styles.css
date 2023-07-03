@@ -1,0 +1,35 @@
+
+.titulo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(14, 77, 133);
+    color: rgb(223, 223, 221);
+}
+img{
+    max-width: fit-content;
+    max-height: fit-content;
+}
+.image-profile{
+    
+    display: flex;
+    justify-content: center;
+       
+}
+.profile-description{
+    font-size: 2cap;
+    justify-content: center;
+}
+.Experiencia{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(14, 77, 133);
+    color: rgb(223, 223, 221);
+}
+
+.skills{
+    align-self:first baseline;
+}
+.Contacto{
+    align-self: flex-start;
+}
